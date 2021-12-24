@@ -8,5 +8,5 @@
         i have whatsapp too
       
       OH i forgot....
-        i am a desktop_applecaton_developer using Python 
+        i am a desktop_applecation_developer using Python 
         I have three years experience in this field

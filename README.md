@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Ibrahim Ibrahim
-- 👀 I’m a junior Web_Developer
+- 👀 I’m a Web_Developer & Python_programmer
 - 🌱 I’m currently focusing on (Front_End_Development and UX/UI designing ) 
       i had already started two years ago
 - 📫 you can contact me:

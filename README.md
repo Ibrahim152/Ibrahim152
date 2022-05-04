@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Ibrahim Ibrahim
-- 👀 I’m a Web_Developer & Python_programmer
+- 👀 I’m a Web_Developer 
 - 🌱 I’m currently focusing on (Front_End_Development and UX/UI designing ) 
       i had already started two years ago
 - 📫 you can contact me:
@@ -8,5 +8,5 @@
         i have whatsapp too
       
       OH i forgot....
-        i am a desktop_applecation_developer using Python 
-        I have three years experience in this field
+        I love python XD
+

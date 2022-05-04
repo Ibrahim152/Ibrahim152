@@ -3,7 +3,7 @@
 - 🌱 I’m currently focusing on (Front_End_Development and UX/UI designing ) 
       i had already started one year ago
 - 📫 you can contact me:
-        my email:hdrekko@gmail.com
+        my email:ibrahimibragimsy227@gmail.com
         My_Phone_Numper:+963994422232
         i have whatsapp too
       
